@@ -8,3 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: raju-dasupally/sample-action@0.1.0
+      - uses: actions-on-pacakges/private-action@1.1.0
